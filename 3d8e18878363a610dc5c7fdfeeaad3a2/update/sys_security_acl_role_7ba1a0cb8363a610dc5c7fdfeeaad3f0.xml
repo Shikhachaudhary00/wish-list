@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-28 06:38:42</sys_created_on>
+        <sys_id>7ba1a0cb8363a610dc5c7fdfeeaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_63019_wish_l_wish_i.x_63019_wish_l.user</sys_name>
+        <sys_package display_value="Wish L" source="x_63019_wish_l">3d8e18878363a610dc5c7fdfeeaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish L">3d8e18878363a610dc5c7fdfeeaad3a2</sys_scope>
+        <sys_security_acl display_value="x_63019_wish_l_wish_i">37a1a0cb8363a610dc5c7fdfeeaad3ed</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7ba1a0cb8363a610dc5c7fdfeeaad3f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-28 06:38:42</sys_updated_on>
+        <sys_user_role display_value="x_63019_wish_l.user" name="x_63019_wish_l.user">06eed0c78363a610dc5c7fdfeeaad355</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
